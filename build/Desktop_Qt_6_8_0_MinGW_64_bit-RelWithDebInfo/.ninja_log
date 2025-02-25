@@ -1,0 +1,15 @@
+# ninja log v6
+13	1364	7622290299391410	ImageToolkits_autogen/timestamp	483a7828e9a0f653
+13	1364	7622290299391410	ImageToolkits_autogen/mocs_compilation.cpp	483a7828e9a0f653
+13	1364	7622290299391410	D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/ImageToolkits_autogen/timestamp	483a7828e9a0f653
+13	1364	7622290299391410	D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/ImageToolkits_autogen/mocs_compilation.cpp	483a7828e9a0f653
+1376	4619	7622290300321858	CMakeFiles/ImageToolkits.dir/main.cpp.obj	e9a837b5e322a478
+1372	4652	7622290300284173	CMakeFiles/ImageToolkits.dir/ImageToolkits_autogen/mocs_compilation.cpp.obj	433f8f9f6223f72b
+1379	5473	7622290300348400	CMakeFiles/ImageToolkits.dir/mainwindow.cpp.obj	71e54545a6018c53
+5473	5675	7622290341300551	ImageToolkits.exe	d3dd6004a6f252fa
+16	182	7622291167338774	ImageToolkits_autogen/timestamp	483a7828e9a0f653
+16	182	7622291167338774	ImageToolkits_autogen/mocs_compilation.cpp	483a7828e9a0f653
+16	182	7622291167338774	D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/ImageToolkits_autogen/timestamp	483a7828e9a0f653
+16	182	7622291167338774	D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/ImageToolkits_autogen/mocs_compilation.cpp	483a7828e9a0f653
+183	3940	7622291169132294	CMakeFiles/ImageToolkits.dir/mainwindow.cpp.obj	71e54545a6018c53
+3940	4136	7622291206606293	ImageToolkits.exe	d3dd6004a6f252fa

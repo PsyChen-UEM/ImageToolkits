@@ -1,0 +1,9 @@
+D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/ImageToolkits.dir
+D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/edit_cache.dir
+D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/rebuild_cache.dir
+D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/list_install_components.dir
+D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/install.dir
+D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/install/local.dir
+D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/install/strip.dir
+D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/ImageToolkits_autogen_timestamp_deps.dir
+D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-RelWithDebInfo/CMakeFiles/ImageToolkits_autogen.dir
