@@ -388,7 +388,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Made By Francsi Chen</string>
+     <string>Made By Francis Chen</string>
     </property>
    </widget>
    <widget class="QLabel" name="Version">
@@ -401,7 +401,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Version 1.1.0</string>
+     <string>Version 1.1.1</string>
     </property>
    </widget>
    <widget class="QListView" name="UserlistView">

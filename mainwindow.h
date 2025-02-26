@@ -58,6 +58,8 @@ private slots:
 
     void on_Contrast_sliderPressed();
 
+    void on_Export_clicked();
+
 private:
     Ui::MainWindow *ui;
     cv::Mat PrevImage,AfterImage;

@@ -260,3 +260,16 @@ void MainWindow::on_Contrast_sliderPressed()
     return;
 }
 
+
+void MainWindow::on_Export_clicked()
+{
+    QString filename=QFileDialog::getSaveFileName(nullptr, "Save Text File", QDir::homePath(), "Image Files (*)");
+    if(!filename.isEmpty()){
+        cv::imwrite(filename.toStdString(),PrevImage);
+    }else{
+        QMessageBox::critical(nullptr,"Error!","Cant Save In A Correct Way");
+        return;
+    }
+    return;
+}
+
