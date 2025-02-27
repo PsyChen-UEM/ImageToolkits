@@ -110,6 +110,10 @@ D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/Image
   C:/OpenCV/opencv-4.11.0-windows/opencv/sources/modules/video/include/opencv2/video/tracking.hpp \
   C:/OpenCV/opencv-4.11.0-windows/opencv/sources/modules/videoio/include/opencv2/videoio.hpp \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/QDir \
+  C:/QtCommunity/6.8.0/mingw_64/include/QtCore/QEvent \
+  C:/QtCommunity/6.8.0/mingw_64/include/QtCore/QMargins \
+  C:/QtCommunity/6.8.0/mingw_64/include/QtCore/QObject \
+  C:/QtCommunity/6.8.0/mingw_64/include/QtCore/QRect \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/QStandardPaths \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/QStringListModel \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/q20functional.h \
@@ -144,6 +148,7 @@ D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/Image
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qcontainerinfo.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qcontainertools_impl.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qcoreevent.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qdarwinhelpers.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qdatastream.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qdatetime.h \
@@ -182,6 +187,7 @@ D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/Image
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qmetatype.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qminmax.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qnamespace.h \
+  C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qnativeinterface.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qnumeric.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qobject.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qobject_impl.h \
@@ -246,6 +252,7 @@ D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/Image
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qversiontagging.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qxptype_traits.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/QtCommunity/6.8.0/mingw_64/include/QtGui/QWindow \
   C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qaction.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qbitmap.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qbrush.h \
@@ -265,15 +272,20 @@ D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/Image
   C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qregion.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qrgb.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qrgba64.h \
+  C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qsurface.h \
+  C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qsurfaceformat.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qtgui-config.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qtguiexports.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qtguiglobal.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qtransform.h \
+  C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qwindow.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qwindowdefs.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/QFileDialog \
   C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/QMainWindow \
   C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/QMessageBox \
+  C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/QToolBar \
+  C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/QWidget \
   C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/qdialog.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/qdialogbuttonbox.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/qfiledialog.h \
@@ -281,6 +293,7 @@ D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/Image
   C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/qmessagebox.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/qsizepolicy.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/qtabwidget.h \
+  C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/qtoolbar.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/qtwidgets-config.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/qtwidgetsexports.h \
   C:/QtCommunity/6.8.0/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
@@ -540,4 +553,6 @@ D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/Image
   C:/QtCommunity/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
   C:/QtCommunity/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/QtCommunity/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
-  C:/QtCommunity/Tools/mingw1310_64/x86_64-w64-mingw32/include/wctype.h
+  C:/QtCommunity/Tools/mingw1310_64/x86_64-w64-mingw32/include/wctype.h \
+  D:/ImageToolkits/Version1_1/mainwindow.h \
+  D:/ImageToolkits/Version1_1/qrcodegenerator.h

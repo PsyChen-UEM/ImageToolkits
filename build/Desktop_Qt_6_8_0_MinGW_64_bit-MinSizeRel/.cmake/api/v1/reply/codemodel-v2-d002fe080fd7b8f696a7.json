@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-MinSizeRel-cbb67e15702af1954406.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ImageToolkits",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ImageToolkits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ImageToolkits-MinSizeRel-e29a4f9a2e2b34a10645.json",
+					"name" : "ImageToolkits",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ImageToolkits_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ImageToolkits_autogen-MinSizeRel-3aa0a420c7e6b2966815.json",
+					"name" : "ImageToolkits_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ImageToolkits_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ImageToolkits_autogen_timestamp_deps-MinSizeRel-bc280bcb1061aa71f021.json",
+					"name" : "ImageToolkits_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ImageToolkits/Version1_1/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel",
+		"source" : "D:/ImageToolkits/Version1_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

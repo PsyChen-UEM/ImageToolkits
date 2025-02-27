@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
 
-project(ImageToolkits VERSION 1.1.1 LANGUAGES CXX)
+project(ImageToolkits VERSION 1.2.0 LANGUAGES CXX)
 
 set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTOMOC ON)
@@ -15,6 +15,8 @@ find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets)
 find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 
 include_directories(${OpenCV_INCLIDE_DIR})
+include_directories("D:\\QRCodeGenerator")
+
 
 set(PROJECT_SOURCES
         main.cpp
@@ -28,6 +30,10 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(ImageToolkits
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        homepage.h homepage.cpp homepage.ui
+        qrcodepage.h qrcodepage.cpp qrcodepage.ui
+        recource.qrc
+        ../../../QRCodeGenerator/qrcodegen.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET ImageToolkits APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

@@ -262,7 +262,8 @@
 		"C:/QtCommunity/6.8.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-relwithdebinfo.cmake",
 		"C:/QtCommunity/6.8.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake",
 		"C:/QtCommunity/6.8.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessAliasTargets.cmake",
-		"C:/QtCommunity/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake"
+		"C:/QtCommunity/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake",
+		"D:/ImageToolkits/Version1_1/resource.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "D:/ImageToolkits/Version1_1",
 	"CROSS_CONFIG" : false,
@@ -274,6 +275,12 @@
 			"D:/ImageToolkits/Version1_1/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"D:/ImageToolkits/Version1_1/qrcodegenerator.h",
+			"MU",
+			"EWIEGA46WW/moc_qrcodegenerator.cpp",
 			null
 		]
 	],
@@ -368,7 +375,8 @@
 	"SOURCES" : 
 	[
 		[ "D:/ImageToolkits/Version1_1/main.cpp", "MU", null ],
-		[ "D:/ImageToolkits/Version1_1/mainwindow.cpp", "MU", null ]
+		[ "D:/ImageToolkits/Version1_1/mainwindow.cpp", "MU", null ],
+		[ "D:/ImageToolkits/Version1_1/qrcodegenerator.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
