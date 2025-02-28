@@ -16,9 +16,9 @@ Now, we have also added a QR code generation tool.
 现在，我们还新增了一个二维码生成工具。
 
 
-The new version (unreleased) also includes the use of the Canny algorithm to generate edges, contour counts, and generate QR codes containing URL information.
+The new version (unreleased) also includes the use of the Canny algorithm to generate edges, contour counts，QRcode decoder.
 
-新版本（未发布）的内容中还包括了使用Canny算法生成边缘、轮廓计数。
+新版本（未发布）的内容中还包括了使用Canny算法生成边缘、轮廓计数、QRcode解码器。
 
 
 *Stay tuned for v1.2.1!*
